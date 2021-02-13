@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Klaus and I love <mark>#robotics</mark>.
 
-  I have a background in <mark>#mechanical engineering</mark> and currently pursue a masters in <mark>#robotics and automation</mark>.
+  I have a background in <mark>#mechanical engineering</mark> and currently pursue a masters in <mark>#robotics and automation</mark>.<br>
   During my studies I learned a lot in the fields of <mark>#manufacturing </mark> and <mark>#project management</mark>.
   Besides practical skills I had the chance to improve my <mark>#teanworking</mark> skills and took charge of <mark>#leadership</mark> for some projects.
   
