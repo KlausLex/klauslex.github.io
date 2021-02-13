@@ -47,9 +47,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in <mark>#robotics</mark> some of my other interests and hobbies are:
-   - <mark>#3D printing </mark>
-   - <mark>#Blender3D </mark>
-   - <mark>#Editing</mark>
+   - <mark>#3D printing </mark> with FDM and MSLA
+   - <mark>#3D modelling </mark> in Blender and Fusion360
+   - <mark>#Image/Video editing</mark> in Affinity Suite and Vegas
 
 # Footer
 footer_show_references: true
