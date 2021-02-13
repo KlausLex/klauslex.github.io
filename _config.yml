@@ -27,9 +27,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Klaus and I love <mark>#robotics</mark>.
 
   I have a background in <mark>#mechanical engineering</mark> and currently pursue a masters in <mark>#robotics and automation</mark>.<br>
-  While working during my studies I learned a lot in the fields of <mark>#manufacturing </mark> and <mark>#project management</mark> and also had the chance to improve my <mark>#teanworking</mark> skills and took charge of <mark>#leadership</mark> for some projects.
+  While working during my studies I learned a lot in the fields of <mark>#manufacturing </mark> and <mark>#project management</mark> and also had the chance to improve my <mark>#teamworking</mark> skills and took charge of <mark>#leadership</mark> for some projects.
   
-  Now I'm looking for chances to expand my skills in <mark>#programming</mark> which I still need a lot of practice in.<br>
+  Now I'm looking for chances to expand on my skills in <mark>#programming</mark> which I still need a lot of practice in.<br>
   In the meantime I take several <mark>#MOOC</mark> and spend too much time on <mark>#Twitter</mark>
 
   
@@ -47,10 +47,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in <mark>#robotics</mark> some of my other interests and hobbies are:
-   - <mark>#3D printing </mark> (FDM & MSLA)
-   - <mark>#3D modelling </mark> (I LOVE <mark>#Blender</mark> but haven't had the time to spend on since well before they updated the GUI)
-   - <mark>#Photography</mark> & <mark>#videography</mark> are things I rarely use to learn more about editing software
-   - <mark>#Programming</mark> is what I probably lack the most currently and should focus on
+   - <mark>#3D printing </mark>
+   - <mark>#Blender3D </mark>
+   - <mark>#Editing</mark>
 
 # Footer
 footer_show_references: true
