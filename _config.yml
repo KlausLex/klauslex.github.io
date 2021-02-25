@@ -51,6 +51,8 @@ more_content: | # this will include new lines to allow paragraphs
    - 3D modelling in <mark>#Blender</mark> and <mark>Fusion360</mark>
    - Image/Video editing in <mark>Affinity Suite</mark> and <mark>Vegas</mark>
 
+
+
 # Footer
 footer_show_references: true
 
