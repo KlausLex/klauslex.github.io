@@ -6,5 +6,5 @@
   quote: >
     I like to learn stuff and make things pretty.
   description: | # this will include new lines to allow paragraphs
-    Working at Knorr-Bremse as a <mark>Technical Writer</mark>, I'm responsible for the <mark>Technical Documentation</mark> of the <mark>Testing Facility</mark>. <br>
-    I mainly write <mark>Manuals</mark> atm as part of the <mark>conformity assassement procedure</mark>, which requires broad understanding not just in engineering disciplines, such as electronics and pneumatics, but also regarding state regulations, laws and risk management.
+    Working as a <mark>Technical Writer</mark> I'm responsible for the <mark>Technical Documentation</mark> of testing facilities. <br>
+    Currently I mainly write <mark>Manuals</mark> as part of the <mark>conformity assassement procedure</mark>, which requires broad understanding not just in engineering disciplines, such as electronics and pneumatics, but also regarding state regulations, laws and risk management.
