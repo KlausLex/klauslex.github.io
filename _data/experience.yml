@@ -1,9 +1,10 @@
 - layout: left
-#  company: Knorr-Bremse GmbH
-#  link: www.knorr-bremse.at/
-#  job_title: Working Student
-#  dates: April 2021 - Present
-#  quote: >
-#   Taking a lot of pictures and spending way too much time on making things look more fancy than they need to be.
-#  description: | # this will include new lines to allow paragraphs
-#    Machines and products needs adress as many people as possible and industrial products are no exception. Creating manuals pleasing to the eye and easy to understand is hard and I give my best to ensure operations are handled safe and without regards to educational background. I am currently working together in a team of 5 people and we aid each other to the best of our abilities, which I really like!
+ company: Knorr-Bremse GmbH
+ link: www.knorr-bremse.at/
+ job_title: Working Student
+ dates: April 2021 - Present
+ quote: >
+  I like to make things pretty.
+ description: | # this will include new lines to allow paragraphs
+  Working at Knorr-Bremse as a <mark>Technical Writer</mark>, I'm responsible for the <mark>Technical Documentation</mark> of the <mark>Testing Facility</mark>. <br>
+  I mainly write <mark>Manuals</mark> atm as part of the <mark>conformity assassement procedure</mark>, which requires broad understanding not just in engineering disciplines, such as electronics and pneumatics, but also regarding state regulations, laws and risk management.
