@@ -58,10 +58,15 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in <mark>#robotics</mark> some of my other interests and hobbies are:
-   - 3D printing with FDM and MSLA
-   - 3D modelling in <mark>#Blender</mark> and <mark>Fusion360</mark>
-   - Image/Video editing in <mark>Affinity Suite</mark> and <mark>Vegas</mark>
+  
+  Currently I also explore options in Scientific Communication and joined the <mark>Pint of Science Austria</mark>
+
+  The little time I have left spend on a mixture of:
+   - 3D printing (Elegoo Mars Pro)
+   - 3D-Modelling in my favorite modeller <mark>BLENDER</mark>
+   - 3D-Modelling in my least favorite modeller <mark>FreeCAD</mark> (I'm sorry but you're breaking everything I learned so far)
+   - Image editing in <mark>Affinity Suite</mark> and <mark>Adobe Lightroom</mark> as well as
+   - Video editing in <mark>Vegas</mark> and <mark>Final Cut</mark>
 
 
 
