@@ -36,14 +36,12 @@ medium_username: klaus_lex
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Klaus.<br>
-  I'm a mechanical engineer based in <mark>Vienna, Austria</mark> and look to transition into <mark>#robotics research</mark>.<br>
-
-  Currently I study <mark>Robotics</mark> at <mark>University West</mark> in Sweden.<br>
-  Working in the fields of <mark>#manufacturing</mark> and <mark>#project management</mark> during my studies gave me the chance me learn a lot and improved my <mark>#teamworking</mark> skills while also learning some <mark>#leadership</mark>.
+  I'm a mechanical engineer based in Vienna, Austria currently studying robotics.
   
   During my studies I've been using mostly <mark>MATLAB</mark> but also some <mark>Python</mark> and <mark>ROS</mark>.<br>
   The most interesting areas for me so far were related to <mark>perception</mark> and <mark>navigation</mark>.<br>
-  In the meantime I'm taking several <mark>MOOCs</mark> and spend way too much time on <mark>Twitter</mark>.
+  This is also what I'm looking for: Robotics research.
+ 
 
   
 
