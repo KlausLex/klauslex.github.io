@@ -35,9 +35,10 @@ medium_username: klaus_lex
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Klaus. I'm an engineer based in <mark>Vienna, Austria</mark> and look to transition into <mark>#robotics research</mark>.
+  Hi, I'm Klaus.<br>
+  I'm a mechanical engineer based in <mark>Vienna, Austria</mark> and look to transition into <mark>#robotics research</mark>.<br>
 
-  I have a background in <mark>#mechanical engineering</mark> and currently study <mark>Robotics</mark> at <mark>University West</mark> in Sweden.<br>
+  Currently I study <mark>Robotics</mark> at <mark>University West</mark> in Sweden.<br>
   Working in the fields of <mark>#manufacturing</mark> and <mark>#project management</mark> during my studies gave me the chance me learn a lot and improved my <mark>#teamworking</mark> skills while also learning some <mark>#leadership</mark>.
   
   During my studies I've been using mostly <mark>MATLAB</mark> but also some <mark>Python</mark> and <mark>ROS</mark>.<br>
