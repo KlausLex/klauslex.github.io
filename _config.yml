@@ -40,11 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
   I'm a engineer based in Vienna, Austria studying robotics.
   
   During my studies I've been using mostly <mark>MATLAB</mark> but also some <mark>Python</mark> and <mark>ROS</mark>.<br>
-  The most interesting areas for me so far were related to <mark>perception</mark> and <mark>navigation</mark>.<br>
+  The most interesting areas for me so far were related to <mark>SLAM</mark>.<br>
   I have experience working in project management, engineering and software development.<br>
-  This includes working with industrial robots (ABB, Universal Robots) & cameras (Cognex).<br>
+  This includes working with industrial robots (<mark>ABB, Universal Robots</mark>) & cameras (<mark>Cognex</mark>).<br>
+  
 
-  Now I'm looking for opportunities to get into academic research to work on autonomous mobile robots.<br>
+  <mark>Now I'm looking for opportunities in academic research to work on autonomous mobile robots.</mark><br>
 
 # Projects Section
 # projects_title: Projects
