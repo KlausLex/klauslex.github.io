@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Klaus Lex
-title: Engineer by Trade - Roboticist at Heart
+title: Loves Autonomous Mobile Robots
 # email: klaus@klauslex.com
 website: www.klauslex.com
 
@@ -37,14 +37,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Klaus.<br>
   
-  I'm a mechanical engineer based in Vienna, Austria currently studying robotics.
+  I'm a engineer based in Vienna, Austria studying robotics.
   
-  Currently I'm looking into opportunities to get into robotics research.
   During my studies I've been using mostly <mark>MATLAB</mark> but also some <mark>Python</mark> and <mark>ROS</mark>.<br>
   The most interesting areas for me so far were related to <mark>perception</mark> and <mark>navigation</mark>.<br>
-  I also got the chance to get valuable practical experience working for a great robotics startup based here in Vienna.<br>
-  
-  There are still a lot of things I do not know but I'm always excited in learning something new!
+  I have experience working in project management, engineering and software development.<br>
+  This includes working with industrial robots (ABB, Universal Robots) & cameras (Cognex).<br>
+
+  Now I'm looking for opportunities to get into academic research to work on autonomous mobile robots.<br>
 
 # Projects Section
 # projects_title: Projects
@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   
-  Currently I also explore options in Scientific Communication and joined the <mark>Pint of Science Austria</mark>
+  Currently I also explore options in Scientific Communication and joined the <mark>Pint of Science Austria</mark> as event manager and moderator.
 
   The little time I have left spend on a mixture of:
    - 3D printing (Elegoo Mars Pro)
