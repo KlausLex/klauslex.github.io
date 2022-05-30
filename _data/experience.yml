@@ -1,10 +1,11 @@
 - layout: left
-  company: Knorr-Bremse GmbH
+  company: Knorr-Bremse
   link: www.knorr-bremse.at/
   job_title: Working Student
-  dates: April 2021 - Present
+  dates: April 2021 - May 2022
   quote: >
-    I like to learn stuff and make things pretty.
+    Knorr-Bremse has pursued a single mission for over 110 years: to make mobility on roads and railways safe, sustainable and environmentally friendly. Today the Knorr-Bremse Group, based in Munich, is the world’s leading manufacturer of braking systems and a leading supplier of safety-critical sub-systems for rail and commercial vehicles..
   description: | # this will include new lines to allow paragraphs
-    Working in <mark>Technical Communication</mark> I'm responsible for the <mark>documentation</mark> of testing facilities. <br>
-    There I mainly create <mark>manuals</mark>, draw <mark>pneumatic plans</mark> and take and edit images and videos.
+    As a <mark>working student</mark> I was responsible for the <mark>documentation</mark> of testing equipment. <br>
+    There I have mainly created <mark>manuals</mark>, drawn <mark>pneumatic plans</mark> and other edited other data (images and videos). <br>
+    I also had the opportunity to work on a few <mark>machine vision</mark> applications for automated testing operations.
