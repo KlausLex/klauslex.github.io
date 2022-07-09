@@ -1,11 +1,12 @@
 - layout: left
-  company: ???
-  link: ???
-  job_title: ???
-  dates: June 2022 - ???
+  company: Rosenbauer
+  link: www.rosenbauer.com
+  job_title: Research Intern
+  dates: July 2022 - November 2022
   quote: >
-    .
+    Rosenbauer is the world’s leading manufacturer of systems for firefighting and disaster protection. For more than 150 years, the name has stood for significant innovations and ground-breaking technology in the manufacture of firefighting vehicles and extinguishing systems in accordance with European and US standards..
   description: | # this will include new lines to allow paragraphs
+    At the department of innovation I work on <mark>sensor integration</mark> and <mark>environmental detection</mark> for mobile robots using <mark>ROS</mark>, <mark>Python</mark> and <mark>C++</mark>.
     .
 
 - layout: left
