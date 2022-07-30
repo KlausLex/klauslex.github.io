@@ -6,8 +6,9 @@
   quote: >
     Rosenbauer is the world’s leading manufacturer of systems for firefighting and disaster protection. For more than 150 years, the name has stood for significant innovations and ground-breaking technology in the manufacture of firefighting vehicles and extinguishing systems in accordance with European and US standards..
   description: | # this will include new lines to allow paragraphs
-    At the department of innovation I work on <mark>sensor integration</mark> and <mark>environmental detection</mark> for mobile robots using <mark>ROS</mark>, <mark>Python</mark> and <mark>C++</mark>.
-    .
+    At the department of research & innovation I work on <mark>sensor integration</mark> and <mark>environmental detection</mark> for mission support systems working with <mark>ROS</mark> using <mark>Python</mark>, <mark>C++</mark> and <mark>CAN</mark>. <br>
+    I'm also learning a lot about
+   
 
 - layout: left
   company: Knorr-Bremse
