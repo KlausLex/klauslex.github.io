@@ -6,8 +6,7 @@
   quote: >
     Rosenbauer is the world’s leading manufacturer of systems for firefighting and disaster protection. For more than 150 years, the name has stood for significant innovations and ground-breaking technology in the manufacture of firefighting vehicles and extinguishing systems in accordance with European and US standards..
   description: | # this will include new lines to allow paragraphs
-    At the department of research & innovation I work on <mark>sensor integration</mark> and <mark>environmental detection</mark> for mission support systems.  <br>
-    Using <mark>Linux</mark> as my daily driver, I'm working with <mark>ROS</mark> all day, where I'm writing code in mostly <mark>Python</mark> and <mark>C++</mark>. Further, I get hands-on experiences in motor control using the <mark>CAN bus</mark> and <mark>network sockets</mark>.
+    At the department of research & innovation I work on <mark>sensor integration</mark> and <mark>environmental detection</mark> for mission support systems. Using <mark>Linux</mark> as my daily driver, I'm working with <mark>ROS</mark> all day, where I'm writing code in mostly <mark>Python</mark> and <mark>C++</mark>. Further, I get hands-on experiences in motor control using the <mark>CAN bus</mark> and <mark>network sockets</mark>.
    
 
 - layout: left
