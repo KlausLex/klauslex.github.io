@@ -37,10 +37,10 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Klaus - Vienna-based PhD student in EE.<br>
 
-  I'm currently working in the area of artificial intelligence, computer vision & sensor fusion.
+  I'm currently working in the area of <mark>artificial intelligence</mark>, <mark>computer vision</mark> & <mark>sensor fusion</mark>.
   During my studies I've primarily been working towards industrial applications and got interested in perception.
 
-  <mark>One day I want to work on locomotion with legged robots (bipeds or quadrupeds), perception in the drone space, or just something more fundamental in general.</mark><br>
+  <mark>One day I'll leave the applied fields for more fundamental work, such as locomotion for bipeds / quadrupeds or perception in the drone space.</mark><br>
 
 # Projects Section
 # projects_title: Projects
