@@ -1,4 +1,36 @@
 - layout: left
+  company: Wien Energie
+  link: www.wienenergie.at
+  job_title: Research Intern
+  dates: 12/2025 - 11/2026
+  quote: >
+    Around two million people, 230,000 commercial and industrial customers, and 4,500 agricultural businesses rely on Wien Energie.<br>As Austria’s largest regional energy provider, we supply homes and businesses in and around Vienna with energy and a wide range of related services.
+  description: | # this will include new lines to allow paragraphs
+    As part of the Robotics Software Development team in the department Smart Inspection, I'm wrapping up my work from University for Continuing Education Krems on the subject of air leak detection.
+   
+- layout: left
+  company: UAS IMC Krems
+  link: www.imc.ac.at
+  job_title: Physics Lecturer
+  dates: 09/2025 - 03/2026
+  quote: >
+    The IMC University of Applied Sciences Krems (Austrian German: IMC Hochschule für angewandte Wissenschaften Krems) is a private Austrian university.
+  description: | # this will include new lines to allow paragraphs
+    IMC Krems gave me the unique opportunity to realize my dream of giving back some of the knowledge I have come to acquire so far by teaching 1st year bachelor students of the degree program "Medical and Pharmaceutical Biotechnology" in the course Applied Physics - Theory (APT1VO)
+
+   
+- layout: left
+  company: University for Continuing Education Krems
+  link: www.donau-uni.ac.at
+  job_title: Scientist
+  dates: 11/2023 - 11/2026
+  quote: >
+    The University for Continuing Education Krems (German: Universität für Weiterbildung Krems) is an Austrian university specializing in further education for working professionals.
+  description: | # this will include new lines to allow paragraphs
+    At the department of integrated sensor systems I worked on the FFG-funded industrial "research"-project "AI-RoboSens" to detect air leaks using a Spot robot from Boston Dynamics equipped with an acoustic imager and a thermal camera.
+   
+
+- layout: left
   company: Rosenbauer
   link: www.rosenbauer.com
   job_title: Research Intern
