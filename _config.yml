@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Klaus Lex
-title: Loving Dogs & Robots
+title: Loving Dogs & Soft/Humanoid Robots
 # email: klaus@klauslex.com
 website: www.klauslex.com
 
@@ -35,12 +35,12 @@ medium_username: klaus_lex
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Klaus - Vienna-based ~~PhD student in EE~~ dog-lover aspiring PhD student in fundamental research.<br>
+  Hi, I'm Klaus - Vienna-based dog-lover & aspiring PhD student in fundamental research.<br>
 
   I was supposed to work in field of <mark>artificial intelligence</mark>, <mark>computer vision</mark> & <mark>sensor fusion</mark>, but lack of funding had me spend most of my time doing some API work while locked down in system integration hell, barely working on some image processing tasks..
   During my studies in mechanical engineering & robotics I realized that applied research/work is not my cup of tea - and I'm much more interested in fundamental or basic reasearch.
 
-  My research interests thus moved on to the general area of <mark>biomimetics<\mark>. More specifically, I'm interested in perception (computer vision), soft or humanoid robots and legged locomotion and path planning.
+  My research interests thus moved on to the general area of <mark>biomimetics</mark>. More specifically, I'm interested in perception (computer vision), soft or humanoid robots and legged locomotion and path planning.
   This naturally leads to me also finding interest in the area of simultaneous localization and mapping (SLAM)
 
 # Projects Section
