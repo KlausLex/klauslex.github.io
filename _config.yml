@@ -37,7 +37,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Klaus - Vienna-based dog-lover & aspiring PhD student in fundamental research.<br>
 
-  I was supposed to work in field of <mark>artificial intelligence</mark>, <mark>computer vision</mark> & <mark>sensor fusion</mark>, but lack of funding had me spend most of my time doing some API work while locked down in system integration hell, barely working on some image processing tasks..
+  I was supposed to do scientif work in the field of <mark>computer vision</mark>, <mark>sensor fusion</mark> & <mark>artificial intelligence</mark>, but lack of funding had me spend most of my time doing engineering for some API work while locked down in system integration hell, barely working on some image processing tasks.
   During my studies in mechanical engineering & robotics I realized that applied research/work is not my cup of tea - and I'm much more interested in <mark>fundamental or basic reasearch</mark>.
 
   My research interests thus moved on to the general area of <mark>biomimetics</mark>. More specifically, I'm interested in perception, any non-industrial type robots, navigation/path planning and artificial intelligence.
